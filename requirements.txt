@@ -1,0 +1,4 @@
+beastling
+clldutils==2.8.0
+pycldf==1.7.0
+unidecode
