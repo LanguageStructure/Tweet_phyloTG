@@ -234,23 +234,27 @@ def write_data(tuled_data, base_path, args):
     # Organize and normalize data for the CSV file
     csv_data = []
     for entry in tuled_data:
-        if entry["Value"] != "?":
-            feature_id = unidecode.unidecode(entry["Feature_ID"])
-            feature_id = feature_id.upper()
-            feature_id = feature_id.split("/")[0].strip()
-            feature_id = feature_id.replace("(", "")
-            feature_id = feature_id.replace(")", "")
-            feature_id = feature_id.replace(",", "")
-            feature_id = feature_id.replace(" ", "_")
+        feature_id = unidecode.unidecode(entry["Feature_ID"])
+        feature_id = feature_id.upper()
+        feature_id = feature_id.split("/")[0].strip()
+        feature_id = feature_id.replace("(", "")
+        feature_id = feature_id.replace(")", "")
+        feature_id = feature_id.replace(",", "")
+        feature_id = feature_id.replace(" ", "_")
 
-            csv_data.append(
-                {
-                    "Language_ID": entry["Language_ID"],
-                    "Glottocode": entry.get("Glottocode", ""),
-                    "Feature_ID": feature_id,
-                    "Value": "%s__%s" % (feature_id, entry["Value"]),
-                }
-            )
+        if entry["Value"] != "?":
+            value = "%s__%s" % (feature_id, entry["Value"])
+        else:
+            value = "?"
+
+        csv_data.append(
+            {
+                "Language_ID": entry["Language_ID"],
+                "Glottocode": entry.get("Glottocode", ""),
+                "Feature_ID": feature_id,
+                "Value": value,
+            }
+        )
 
     # Write data
     datafile_path = base_path / "beastling" / args.datafile
