@@ -2,10 +2,6 @@
 raw/*.zip
 data/TuLeD*
 
-# Don't store intermediate analysis
-phylotupi-expert.nex
-phylotupi-expert.xml.state
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
