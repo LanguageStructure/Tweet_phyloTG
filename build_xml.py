@@ -64,6 +64,10 @@ def read_nexus(nexus_map, nexus_path):
                 if match:
                     taxon, vector = match.groups()
 
+                    # Manual excludes, while data is cleaned
+                    if taxon == "Apiaká":
+                        continue
+
                     for concept in concepts:
                         # Get subset of data vector
                         subset = vector[concept["start"] - 1 : concept["end"]]
@@ -284,38 +288,37 @@ def write_calibration(calibrations, languages_in_data, base_path, args):
             # If the first character is not a digit or if there is an
             # hyphen anywhere, we assume it is a beastling calibration;
             # otherwise, it is a tip that should be detracted from the
-            # current year
-            if not calibration:
-                date = "%.3f" % 2.020
-            elif calibration[0] in "0123456789" and not "-" in calibration:
-                date = 2.020 - float(calibration)
-                date = "%.3f" % date
-            else:
-                date = calibration
+            # current year. Note that `date` is originally set to None
+            # and will not be written to the configuration if it is not set;
+            # we can also decide whether to calibrate very recent
+            # languages or not.
+            date_calibr = None
+            if calibration:
+                if calibration[0] in "0123456789" and not "-" in calibration:
+                    # Only set languages that are over 100 years old
+                    diff = 2.020 - float(calibration)
+                    if diff > 0.1:
+                        date_calibr = "%.3f" % diff
+                else:
+                    date_calibr = calibration
 
             # replace the ROOT node with the list of languages; if we have a group,
             # make sure the labels are sorted. Note that we need to make sure to only
             # add a calibration for languages that passed the various filters.
             if language == "ROOT":
-                handler.write("root = %s\n" % date)
+                if date_calibr:
+                    handler.write("root = %s\n" % date_calibr)
             elif "," in language:
                 # Select only languages that are in data
                 clade = [lang.strip() for lang in language.split(",")]
                 clade = [lang for lang in clade if lang in languages_in_data]
-                if len(clade) > 1:
+                if len(clade) > 1 and date_calibr:
                     clade_label = ", ".join(sorted(clade))
-                    handler.write("%s = %s\n" % (clade_label, date))
+                    handler.write("%s = %s\n" % (clade_label, date_calibr))
             else:
                 if language in languages_in_data:
-                    # If the language has more than 150 years, we allow for some range,
-                    # not taking the date of the grammar publication as a tip
-                    if float(date) >= 0.15:
-                        handler.write(
-                            "%s = %.3f - %.3f\n"
-                            % (language, float(date) - 0.05, float(date))
-                        )
-                    else:
-                        handler.write("%s = %s\n" % (language, date))
+                    if date_calibr:
+                        handler.write("%s = %s\n" % (language, date_calibr))
 
 
 def run_beastling(args):

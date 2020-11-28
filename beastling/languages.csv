@@ -1,5 +1,5 @@
 Language,Nexus_Name,Glottocode,Calibration,Latitude,Longitude
-ROOT,,,0.5-1.2,,
+ROOT,,,0.5-2.0,,
 Akuntsu,Akuntsu,akun1241,2.010,-12.38,-60.97
 Amanaye,Amanaye,,2.020,,
 Amondawa,Amondawa,amun1246,2.010,-9.04,-62.31
@@ -12,11 +12,11 @@ Arikem,Arikem,arik1264,1.930,-8.92,-63.74
 Arua,Arua,arua1261,1.990,-12.12,-62.44
 Aruashi,Aruashi,,,,
 Asurini_T,Asurini_do_Tocantin,toca1235,2.010,-3.59,-49.9
-Asurini_X,Asurini_do_Xingu,xing1248,2.010,-4.13,-52.32
+Asurini_X,Asuriní Xingu,xing1248,2.010,-4.13,-52.32
 Ava_Canoeiro,Ava_Canoeiro,avac1239,2.015,-13.61,-48.13
 Aweti,Aweti,awet1244,2.015,-12.38,-53.39
 Chiriguano,Chiriguano,east2555,2.010,-20.42,-63.37
-Chiripa,Chiripa_Nandeva_Ava,,2.020,,
+Nhandeva,Ñandeva,,2.020,,
 Cinta_Larga,Cinta_Larga,cint1239,1.990,-10.59,-60.83
 Cocama,Cocama_Cocamilla,coca1259,2.010,-4.5,-74
 Emerillon_Teko,Emerillon_Teko,emer1243,2.018,3.24,-52.37
@@ -30,7 +30,7 @@ Jiahoi,Jiahoi,,2.020,,
 Jora,Jora,,2.020,,
 Juma,Juma,,,,
 Juruna,Juruna_Yudja,juru1256,1.990,-10.94,-53.35
-Kaapor,Ka_apor_Urubu,urub1250,2.015,-2.46,-46.22
+Kaapor,Ka'apor,urub1250,2.015,-2.46,-46.22
 Kabanae,Kabanae,,,,
 Kaiowa,Kaiowa,kaiw1246,2.015,-24.59,-54.68
 Kamajura,Kamajura,kama1373,2.005,-12.27,-53.47
