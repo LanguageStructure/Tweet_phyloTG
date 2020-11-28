@@ -1,4 +1,4 @@
-#1 (Introduction)
+# 1 (Introduction)
 
 Tupí-Guaraní (TG) is the largest linguistic family of South-America. Little is knwon about its spread (genes and languages). Historical linguistics has tools to investigate such issue. Even more when aided by digital data, computers, and methods from evolutionary biology.
 
@@ -7,7 +7,7 @@ Tupí-Guaraní (TG) is the largest linguistic family of South-America. Little is
 (MAP TG FAMILY) (PHYLO TREE W SPECIES) () ()
 
 
-#2 (Data)
+# 2 (Data)
 
 We build linguistic trees from open-access reusable data in CLDF lifted with EDICTOR from TuLeD (abc concepts in xx TG langs, zab words) with phylogenetic softwares
 
@@ -15,14 +15,14 @@ We build linguistic trees from open-access reusable data in CLDF lifted with EDI
 (TuLeD) (CLDF) (EDICTOR) (PHYLO TREE IE)
 
 
-#3 (Goal)
+# 3 (Goal)
 
 Linguistic trees display classifications comparable with results from other fields (Archaeology, Ethnography, History). We test a model on the data only, then aggregate information (langs, archaeo, hist.), evaluate hypotheses, and accordignly improve data and model. 
 
 (IMAGE ARCHAEOLOGY) 
 
 
-#4 (Explaining a model)
+# 4 (Explaining a model)
 
 Evolutionary methods: we start from simple ones (NJ) to highly complex (MCMC) delivering millions of trees. Deriving a single tree that best summarizes the results is the challenge.
 
@@ -30,11 +30,11 @@ Evolutionary methods: we start from simple ones (NJ) to highly complex (MCMC) de
 (NJ) (NeighbourNet) (DENSE TREE)
 
 
-#5 (Preliminary RESULTS)
+# 5 (Preliminary RESULTS)
 
 Mawetí-Guaraní hypothesis recognized. Fast expansion of the Guaraní slows ca. year 1580. 4 major groups identified. Blue group supports ethnogr/hist/ling evidence: dialect continuum, common area of origin, close contact. 
 
-#6 (To do and REFS)
+# 6 (To do and REFS)
 
 
 Collect more hist. information, improve cognacy. Cogancy alone is not all include other ling. data. Constrain and calibrate model(s) (dates, geography, ratios, monophyletic groups). 
