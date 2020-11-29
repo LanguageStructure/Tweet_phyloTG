@@ -11,7 +11,7 @@ Tupí-Guaraní (TG) is the largest linguistic family of South-America. Little is
 </div>
 
 
-Tupí-Guaraní Languages |  Phylogenetic Tree
+[Tupí-Guaraní Languages](https://glottolog.org/resource/languoid/id/tupi1276) |  Phylogenetic Tree
 :-------------------------:|:-------------------------:
 <img src="TG_map.png" width="260" height="200"> | 
 
