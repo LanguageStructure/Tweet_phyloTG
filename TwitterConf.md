@@ -15,9 +15,9 @@ We build linguistic trees from open-access reusable data in CLDF lifted with EDI
 
 (TuLeD) (CLDF) (EDICTOR) (PHYLO TREE IE)
 
-[TuLeD](https://tuled.org) |  Phylogenetic Tree | 
+[TuLeD](https://tuled.org) |  [CLDF]() | [EDICTOR](https://digling.org/edictor/) |
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="tuled.png" width="140" height="100"> | <img src="tuled.png" width="140" height="100"> | <img src="tuled.png" width="140" height="100">
+<img src="tuled.png" width="140" height="100"> | <img src="tuled.png" width="140" height="100"> | <img src="edictor.png" width="140" height="100">
 
 
 # 3 (Goal)
