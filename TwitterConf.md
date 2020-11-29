@@ -1,8 +1,9 @@
 # 1 (Introduction)
+<p style='text-align: justify;'>
 
-Tupí-Guaraní (TG) is the largest linguistic family of South-America. Little is knwon about its spread (genes and languages). Historical linguistics has tools to investigate such issue. Even more when aided by digital data, computers, and methods from evolutionary biology.
+Tupí-Guaraní (TG) is the largest linguistic family of South-America. Little is knwon about its spread (genes and languages). Historical linguistics has tools to investigate such issue. Even more aided by digital data, computers, and methods from evolutionary biology.
 
-
+</p>
 
 Tupí-Guaraní Languages |  Phylogenetic Tree
 :-------------------------:|:-------------------------:
