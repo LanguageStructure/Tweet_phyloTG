@@ -20,15 +20,17 @@ Tupí-Guaraní (TG) is the largest linguistic family of South-America. Little is
 We build linguistic trees from open-access reusable data in CLDF, lifted with EDICTOR from TuLeD (285 concepts, 40 TG langs, 16211 words) with phylogenetic softwares (Beast2, Beastling). 2832 cognate sets first detected with LexStat, then 40% manually reviewed (ongoing work).
 
 [TuLeD](https://tuled.org) |  [CLDF](https://cldf.clld.org) | [EDICTOR](https://digling.org/edictor/) | [Linguistic Tree](https://www.pnas.org/content/116/21/10317)      |
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="tuled.png" width="280" height="200"> | <img src="cldf.png" width="280" height="200"> | <img src="edictor.png" width="280" height="200"> | <img src="F2.large.jpg" width="280">
+:-------------------------:|:-------------------------:|:-------------------------:|:--------------------------:
+<img src="tuled.png" width="280" height="200"> | <img src="cldf.png" width="280" height="200"> | <img src="edictor.png" width="280" height="200"> | <img src="F2.large.jpg"  height="200">
 
 
 ## 3 (Goal)
 
-Linguistic trees display classifications comparable with results from other fields (Archaeology, Ethnography, History). We test a model on the data only, then aggregate information (langs, archaeo, hist.), evaluate hypotheses, and accordignly improve data and model. 
+Linguistic trees display classifications comparable with results from other fields (Archaeology, Ethnography, History). We test a model on the data only, then we interpret results considering extra-linguistic, evaluate hypotheses, and accordingly improve data and model. 
 
-(IMAGE ARCHAEOLOGY) 
+[Archaeology](https://amazonexpand.wixsite.com/expand) | [Archaeology](https://raw.githubusercontent.com/jgregoriods/rxpand/master/img/tutish.png) | Ethnographic Information
+:-------------------------:|:-------------------------:|:---------------------:|
+<img src="https://static.wixstatic.com/media/7bbfe9_af29f695208b4b56a8468c205806fd75~mv2.png/v1/fill/w_538,h_658,al_c,usm_0.66_1.00_0.01/EmbeddedImage%20(1).png" height="200"> | <img src="tutish.png" height="200"> | <img src="bookCover.png" height="200">
 
 
 ## 4 (Explaining a model)
