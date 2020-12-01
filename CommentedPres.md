@@ -32,6 +32,7 @@ Linguistic trees display classifications comparable with results from other fiel
 :-------------------------:|:-------------------------:|:---------------------:|
 <img src="https://static.wixstatic.com/media/7bbfe9_af29f695208b4b56a8468c205806fd75~mv2.png/v1/fill/w_538,h_658,al_c,usm_0.66_1.00_0.01/EmbeddedImage%20(1).png" height="200"> | <img src="tutish.png" height="200"> | <img src="bookCover.png" height="200">
 
+By **interpreting results considering extra-linguistic data**, we mean looking at the trees and interpreting it also considering, e.g., archeological or ethnographical data. The case of Ka'apor is illustrative. Ka'apor seems to have had  a relatively long contact with either Tupinambá or Língua Geral (cf. Ribeiro 1996; Correa da Silva 2011), nonetheless, based on phonological criteria, Ka'apor is grouped with Wayampi, Emerillon, Anambé of Ehrenreich, and Guajá, languages that are today far apart from each other 
 
 ## 4 (Explaining a model)
 
