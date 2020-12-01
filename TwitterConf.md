@@ -11,19 +11,17 @@ Tupí-Guaraní (TG) is the largest linguistic family of South-America. Little is
 </div>
 
 
-[Tupí-Guaraní Languages](https://glottolog.org/resource/languoid/id/tupi1276) |  Phylogenetic Tree
+[Tupí-Guaraní Languages](https://glottolog.org/resource/languoid/id/tupi1276) |  [Phylogenetic Tree](https://www.pnas.org/content/116/45/22657)
 :-------------------------:|:-------------------------:
-<img src="TG_map.png" width="260" height="200"> | 
+<img src="TG_map.png" width="260" height="200"> | <img src="F1.large.jpg" width="260" height="200">
 
 ## 2 (Data)
 
-We build linguistic trees from open-access reusable data in CLDF lifted with EDICTOR from TuLeD (abc concepts in xx TG langs, zab words) with phylogenetic softwares
+We build linguistic trees from open-access reusable data in CLDF, lifted with EDICTOR from TuLeD (285 concepts, 40 TG langs, 16211 words) with phylogenetic softwares (Beast2, Beastling). 2832 cognate sets first detected with LexStat, then 40% manually reviewed (ongoing work).
 
-(TuLeD) (CLDF) (EDICTOR) (PHYLO TREE IE)
-
-[TuLeD](https://tuled.org) |  [CLDF](https://cldf.clld.org) | [EDICTOR](https://digling.org/edictor/) |
+[TuLeD](https://tuled.org) |  [CLDF](https://cldf.clld.org) | [EDICTOR](https://digling.org/edictor/) | [Linguistic Tree](https://www.pnas.org/content/116/21/10317)      |
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="tuled.png" width="280" height="200"> | <img src="cldf.png" width="280" height="200"> | <img src="edictor.png" width="280" height="200">
+<img src="tuled.png" width="280" height="200"> | <img src="cldf.png" width="280" height="200"> | <img src="edictor.png" width="280" height="200"> | <img src="F2.large.jpg" width="280">
 
 
 ## 3 (Goal)
