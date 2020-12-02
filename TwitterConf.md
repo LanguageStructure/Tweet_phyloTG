@@ -48,7 +48,7 @@ Mawetí-Guaraní hypothesis recognized. Fast expansion of the Guaraní slows ca.
 
 [Mawetí-Guaraní Hypothesis](https://glottolog.org/resource/languoid/id/mawe1252) | Phylogenetic Tree | (label) |
 :-------------------------:|:-------------------------:|:--------------------:
-(pic)  | <img src="tuled-tg.consensus.png" width="260" height="200"> | (pic)
+(pic)  | <img src="TG_Tree.png" width="260" height="200"> | (pic)
 
 
 ## 6 (To do and REFS)
