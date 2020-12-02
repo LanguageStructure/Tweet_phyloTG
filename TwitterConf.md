@@ -39,14 +39,15 @@ Evolutionary methods: we start from simple ones (NJ) to highly complex (MCMC) de
 
 (NJ) (NeighbourNet) (DENSE TREE) (Gerhard's method)
 
+
 ## 5 (Preliminary RESULTS)
 
 Mawetí-Guaraní hypothesis recognized. Fast expansion of the Guaraní slows ca. year 1580. 4 major groups identified. Blue group supports ethnogr/hist/ling evidence: dialect continuum, common area of origin, close contact. 
 
-
 [Mawetí-Guaraní Hypothesis](https://glottolog.org/resource/languoid/id/mawe1252) | 
-:-------------------------:|:-------------------------:
-<> | <>
+:-------------------------:|:-------------------------:|
+ <img src="DensiTree_TG.png" height="200"> | <>
+
 
 ## 6 (To do and REFS)
 
