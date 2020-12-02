@@ -39,7 +39,7 @@ By **interpreting results considering extra-linguistic data**, we mean looking a
 
 ## 4 (The models)
 
-Evolutionary methods: we start from simple ones (NJ) to highly complex (MCMC) delivering millions of trees. Deriving a single tree that best summarizes the results is the challenge.
+Evolutionary methods: we experiment from simple (NJ) to highly complex ones for millions of trees (Bayesian MCMC, covarion model, relaxed clock). The challenge is to deliver the best single tree to summarize the results.
 
 (NJ) (NeighbourNet) (DENSE TREE)
 
