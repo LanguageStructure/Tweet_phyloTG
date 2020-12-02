@@ -17,7 +17,7 @@ Tupí-Guaraní (TG) is the largest linguistic family of South-America. Little is
 
 ## 2 (Data)
 
-We build linguistic trees from open-access reusable data in CLDF, lifted with EDICTOR from TuLeD (285 concepts, 40 TG langs, 16211 words) with phylogenetic softwares (Beast2, Beastling). 2832 cognate sets first detected with LexStat, then 40% manually reviewed (ongoing work).
+Using phylogenetic tools (BEAST2, beastling), we build linguistic trees from open-access reusable data in CLDF, lifted with EDICTOR from TuLeD (285 concepts, 40 TG langs, 16211 words). We first detected 2832 cognate sets with LexStat, then reviewed 40% manually (ongoing work).
 
 [TuLeD](https://tuled.org) |  [CLDF](https://cldf.clld.org) | [EDICTOR](https://digling.org/edictor/) | [Linguistic Tree](https://www.pnas.org/content/116/21/10317)      |
 :-------------------------:|:-------------------------:|:-------------------------:|:--------------------------:
