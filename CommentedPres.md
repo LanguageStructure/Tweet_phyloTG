@@ -36,21 +36,22 @@ Linguistic trees display classifications comparable with results from other fiel
 
 By **interpreting results considering extra-linguistic data**, we mean looking at the trees and interpreting it also considering, e.g., archeological or ethnographical data. The case of Ka'apor is illustrative. Ka'apor seems to have had  a relatively long contact with either Tupinambá or Língua Geral (cf. Ribeiro 1996; Correa da Silva 2011), nonetheless, based on phonological criteria, Ka'apor is grouped with [Wayampi, Emerillon, Anambé of Ehrenreich, and Guajá](https://glottolog.org/resource/languoid/id/tupi1281), languages by Rodriges and Cabral (2011) that are today far apart from each other. In spite of the position of Ka'apor in the tree, we have linguistic data (Rodrigues and Cabral 2011), and the mithology of the Ka'apor themselves which give us a clue that they were located more to the west in the past (cf. Huxley 1963; Ribeiro 1996; Balée 1994).
 
-
-## 4 (The models)
+## 4 (Explaining a model)
 
 Evolutionary methods: we experiment from simple (NJ) to highly complex ones for millions of trees (Bayesian MCMC, covarion model, relaxed clock). The challenge is to deliver the best single tree to summarize the results.
 
-(NJ) (NeighbourNet) (DENSE TREE)
+NJ | NeighbourNet | Density Tree | (Gerhard's method) |
+:-------------------------:|:-------------------------:|:--------------------:|:-----------------|
+(pic)  | (pic) | <img src="DensiTree_TG.png" width="260" height="200"> | (pic)
+
 
 ## 5 (Preliminary RESULTS)
 
 Mawetí-Guaraní hypothesis recognized. Fast expansion of the Guaraní slows ca. year 1580. 4 major groups identified. Blue group supports ethnogr/hist/ling evidence: dialect continuum, common area of origin, close contact. 
 
-
-[Mawetí-Guaraní Hypothesis](https://glottolog.org/resource/languoid/id/tupi1276) |  [Phylogenetic Tree](https://www.pnas.org/content/116/45/22657)
-:-------------------------:|:-------------------------:
-<img src="TG_map.png" width="260" height="200"> | <img src="F1.large.jpg" width="260" height="200">
+[Mawetí-Guaraní Hypothesis](https://glottolog.org/resource/languoid/id/mawe1252) | Phylogenetic Tree | (label) |
+:-------------------------:|:-------------------------:|:--------------------:
+(pic)  | <img src="tuled-tg.consensus.png" width="260" height="200"> | (pic)
 
 ## 6 (To do)
 
