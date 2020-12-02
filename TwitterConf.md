@@ -26,7 +26,7 @@ Using phylogenetic tools (BEAST2, beastling), we build linguistic trees from ope
 
 ## 3 (Goal)
 
-Linguistic trees display classifications comparable with results from other fields (Archaeology, Ethnography, History). We test a model on the data only, then we interpret results considering extra-linguistic, evaluate hypotheses, and accordingly improve data and model. 
+Linguistic trees display classifications comparable with results from other fields (Archaeology, Ethnography, History). We first test a model on lexical data only, then we interpret results considering extra-linguistic data, evaluating hypotheses, and accordingly improve data and model.
 
 [Archaeology](https://amazonexpand.wixsite.com/expand) | [Archaeology](https://raw.githubusercontent.com/jgregoriods/rxpand/master/img/tutish.png) | Ethnographic Information
 :-------------------------:|:-------------------------:|:---------------------:|
