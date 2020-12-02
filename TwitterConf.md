@@ -35,7 +35,7 @@ Linguistic trees display classifications comparable with results from other fiel
 
 ## 4 (Explaining a model)
 
-Evolutionary methods: we start from simple ones (NJ) to highly complex (MCMC) delivering millions of trees. Deriving a single tree that best summarizes the results is the challenge.
+Evolutionary methods: we experiment from simple (NJ) to highly complex ones for millions of trees (Bayesian MCMC, covarion model, relaxed clock). The challenge is to deliver the best single tree to summarize the results.
 
 NJ | NeighbourNet | Density Tree | (Gerhard's method) |
 :-------------------------:|:-------------------------:|:--------------------:|:-----------------|
