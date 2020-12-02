@@ -37,8 +37,6 @@ Linguistic trees display classifications comparable with results from other fiel
 
 Evolutionary methods: we start from simple ones (NJ) to highly complex (MCMC) delivering millions of trees. Deriving a single tree that best summarizes the results is the challenge.
 
-(NJ) (NeighbourNet) (DENSE TREE) (Gerhard's method)
-
 NJ | NeighbourNet | Density Tree | (Gerhard's method) |
 :-------------------------:|:-------------------------:|:--------------------:|:-----------------|
 (pic)  | (pic) | <img src="DensiTree_TG.png" width="260" height="200"> | (pic)
