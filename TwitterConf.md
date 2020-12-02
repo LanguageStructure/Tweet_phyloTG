@@ -46,9 +46,9 @@ NJ | NeighbourNet | Density Tree | (Gerhard's method) |
 
 Mawetí-Guaraní hypothesis recognized. Fast expansion of the Guaraní slows ca. year 1580. 4 major groups identified. Blue group supports ethnogr/hist/ling evidence: dialect continuum, common area of origin, close contact. 
 
-[Mawetí-Guaraní Hypothesis](https://glottolog.org/resource/languoid/id/mawe1252) | Density Tree  | (label) |
+[Mawetí-Guaraní Hypothesis](https://glottolog.org/resource/languoid/id/mawe1252) | Phylogenetic Tree | (label) |
 :-------------------------:|:-------------------------:|:--------------------:
-(pic)  | <img src="DensiTree_TG.png" width="260" height="200"> | (pic)
+(pic)  | <img src="tuled-tg.consensus.png" width="260" height="200"> | (pic)
 
 
 ## 6 (To do and REFS)
