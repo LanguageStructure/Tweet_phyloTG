@@ -47,8 +47,6 @@ The Density Tree plots thousands of the best scoring trees on top of each other,
 
 ## 5 (Preliminary RESULTS)
 
-## 5 (Preliminary RESULTS)
-
 Mawetí-Guaraní hypothesis recognized. Fast expansion of the Guaraní slows ca. year 1580. 4 major groups identified. Blue group supports ethnogr/hist/ling evidence: dialect continuum, common area of origin, close contact. 
 
 [Mawetí-Guaraní Hypothesis](https://glottolog.org/resource/languoid/id/mawe1252) | Phylogenetic Tree | (label) |
