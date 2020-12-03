@@ -54,6 +54,8 @@ Mawetí-Guaraní hypothesis recognized. Fast expansion of the Guaraní slows ca.
 :-------------------------:|:-------------------------:|:--------------------:
 (pic)  | <img src="tuled-tg.consensus.png" width="260" height="200"> | (pic)
 
+The phylogenetic tree above is a consensus tree, computed with a 20% burn-in, which is the best preliminary results so far, accepting some of the monophyletic restrictions given in the literature and confirmed in our previous analyses. Sateré-Mawé forms the first out-group, followed by Awetí, with full confidence (the posterior support at 1.00 for both). The groups highlighted by the root canal in the density tree are confirmed and better organized, with some lower support on the initial moments of expansion. These lower support might be improved with more data and longer analyses, but might also support hypotheses on a rapid expansion in different groups. As for dates, this consensus tree suggests that the expansion of the group, after the ancestor of Awetí had already split, started around 1,100 years ago, with a rapid speciation until circa 500 years ago. The less resolved relationship is between the various Guarani languages, which might indicate a continous contact.
+
 ## 6 (To do)
 
 
