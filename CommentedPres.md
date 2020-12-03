@@ -62,6 +62,8 @@ Collect more hist. information, improve cognacy. Cogancy alone is not all includ
 
 ## Selected Bibliography
 
+Almeida, F. O. D., & Neves, E. G. (2015). Evidências arqueológicas para a origem dos Tupi-Guarani no leste da Amazônia. Mana, 21(3), 499-525.
+
 Balée, W. L. (1994). Footprints of the forest: Ka'apor ethnobotany-the historical ecology of plant utilization by an Amazonian people. Columbia University Press.
 
 Bouckaert R., Heled J., Kühnert D., Vaughan T., Wu C. H.,Xie D., et al. (2014). BEAST2: A Software Platform for Bayesian Evolutionary Analysis. PLoS Comput Biol. 10(4).
