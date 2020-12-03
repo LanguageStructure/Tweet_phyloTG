@@ -15,6 +15,8 @@ Tupí-Guaraní (TG) is the largest linguistic family of South-America. Little is
 :-------------------------:|:-------------------------:
 <img src="TG_map.png" width="260" height="200"> | <img src="F1.large.jpg" width="260" height="200">
 
+See Nunn (2011).
+
 ## 2 (Data)
 
 Using phylogenetic tools (BEAST2, beastling), we build linguistic trees from open-access reusable data in CLDF, lifted with EDICTOR from TuLeD (285 concepts, 40 TG langs, 16211 words). We first detected 2832 cognate sets with LexStat, then reviewed 40% manually (ongoing work).
@@ -23,6 +25,9 @@ Using phylogenetic tools (BEAST2, beastling), we build linguistic trees from ope
 :-------------------------:|:-------------------------:|:-------------------------:|
 <img src="tuled.png" width="280" height="200"> | <img src="cldf.png" width="280" height="200"> | <img src="edictor.png" width="280" height="200"> | 
 
+[EDICTOR](http://lingulist.de/edictor/) is an excelent tool for historical linguists to process their data, visualize multiple lines of alignments and segmentations.
+
+[CLDF](]https://cldf.clld.org), it is a standard for cross-linguistic data formats, allowing [FAIR data](https://www.nature.com/articles/sdata201618) in Linguistics. 
 
 ## 3 (Goal)
 
@@ -33,7 +38,7 @@ Linguistic trees display classifications comparable with results from other fiel
 <img src="https://static.wixstatic.com/media/7bbfe9_af29f695208b4b56a8468c205806fd75~mv2.png/v1/fill/w_538,h_658,al_c,usm_0.66_1.00_0.01/EmbeddedImage%20(1).png" height="200"> | <img src="tutish.png" height="200"> | <img src="bookCover.png" height="200"> |<img src="HeatMap_Cogs.jpeg" height="200">
 
 
-By **interpreting results considering extra-linguistic data** we mean looking at the trees and interpreting it also considering, e.g., archeological or ethnographical data. The case of Ka'apor is illustrative. Ka'apor seems to have had  a relatively long contact with either Tupinambá or Língua Geral (cf. Ribeiro 1996; Correa da Silva 2011), nonetheless, based on phonological criteria, Ka'apor is grouped with [Wayampi, Emerillon, Anambé of Ehrenreich, and Guajá](https://glottolog.org/resource/languoid/id/tupi1281), languages by Rodriges and Cabral (2011) that are today far apart from each other. In spite of the position of Ka'apor in the tree, we have linguistic data (Rodrigues and Cabral 2011), and the mithology of the Ka'apor themselves giving clues that they were once located more to the west (cf. Huxley 1963; Ribeiro 1996; Balée 1994). 
+By **interpreting results considering extra-linguistic data** we mean looking at the trees and interpreting them also considering, e.g., archeological or ethnographical data. The case of Ka'apor is illustrative. Ka'apor seems to have had a relatively long contact with either Tupinambá or Língua Geral (cf. Ribeiro 1996; Correa da Silva 2011), nonetheless, based on phonological criteria, Ka'apor is grouped with [Wayampi, Emerillon, Anambé of Ehrenreich, and Guajá](https://glottolog.org/resource/languoid/id/tupi1281), languages by Rodriges and Cabral (2011) that are today far apart. In spite of the position of Ka'apor in the tree, we have linguistic data (Rodrigues and Cabral 2011), and the myths of the Ka'apor giving clues to their location more to the west in the past (cf. Huxley 1963; Ribeiro 1996; Balée 1994). 
 
 ## 4 (Explaining a model)
 
@@ -43,7 +48,7 @@ NJ | NeighbourNet | Density Tree |
 :-------------------------:|:-------------------------:|:--------------------:|
 (pic)  | (pic) | <img src="DensiTree_TG.png" width="260" height="200"> |
 
-The Density Tree plots thousands of the best scoring trees on top of each other, highlighting conflicting signals that can be due to a number of reasons, from limited data to a high ratio of borrowings. It also allows us to visually assess how likely some splits and their dates are. In our preliminary density tree, above, where the "root canal" is highlighted in blue, we can see that the groups for Guarani and Tupinambá seem clearly distinct, with some lower but clear probably of the split for the latter group being older than the most likely hypothesis. Some languages also show some conflicting signal: in this analysis, for example, Old Guarani is closer to the Siriono group, but there is a strong signal (visible by the green shade) for a closer membership with the Mbya group. The positions of Zo'e and Kamajurá, as expected, also show a lower degree of confidence.
+The Density Tree plots thousands of the best scoring trees on top of each other (in green), highlighting conflicting signals that can be due to a number of reasons, from limited data to a high ratio of borrowings. The summary of the best trees, trees with higher probabilities, is plotted in blue. It also allows us to visually assess how likely some splits and their dates are. In our preliminary density tree, above, where the "root canal" is highlighted in blue, we can see that the groups for Guarani and Tupinambá (Ferraz Gerardi and Reichert 2020) seem clearly distinct, with some probability that it happened earlier than the date of root canal. Some languages also show some conflicting signal: in this analysis, for example, Old Guarani is closer to the Siriono group, but there is a strong signal (visible by the green shade) for a closer membership with the Mbya group. The positions of Zo'e and Kamajurá, as expected, also show a lower degree of confidence. 
 
 ## 5 (Preliminary RESULTS)
 
@@ -53,10 +58,9 @@ Mawetí-Guaraní hypothesis recognized. Fast expansion of the Guaraní slows ca.
 :-------------------------:|:-------------------------:|:--------------------:
 (pic)  | <img src="TG_Tree.png" width="260" height="200"> | (pic)
 
-The phylogenetic tree above is a consensus tree, computed with a 20% burn-in, which is the best preliminary results so far, accepting some of the monophyletic restrictions given in the literature and confirmed in our previous analyses. Sateré-Mawé forms the first out-group, followed by Awetí, with full confidence (the posterior support at 1.00 for both). The groups highlighted by the root canal in the density tree are confirmed and better organized, with some lower support on the initial moments of expansion. These lower support might be improved with more data and longer analyses, but might also support hypotheses on a rapid expansion in different groups. As for dates, this consensus tree suggests that the expansion of the group, after the ancestor of Awetí had already split, started around 1,100 years ago, with a rapid speciation until circa 500 years ago. The less resolved relationship is between the various Guarani languages, which might indicate a continous contact.
+The phylogenetic tree above is a consensus tree, computed with a 20% burn-in, which is the best preliminary results so far, accepting some of the monophyletic restrictions given in the literature and confirmed in our previous analyses. Sateré-Mawé forms the first out-group, followed by Awetí, with full confidence (the posterior support at 1.00 for both) (Silva 2011, Meira & Drude 2015). The groups highlighted by the root canal in the density tree are confirmed and better organized, with some lower support on the initial moments of expansion. These lower support might be improved with more data and longer analyses, but might also support hypotheses on a rapid expansion in different groups. As for dates, this consensus tree suggests that the expansion of the group, after the ancestor of Awetí had already split, started around 1,100 years ago, with a rapid speciation until circa 500 years ago. The less resolved relationship is between the various Guarani languages, which might indicate a continous contact. The horizontal axis represent time in a scale of 100 years.
 
 ## 6 (To do)
-
 
 Collect more hist. information, improve cognacy. Cogancy alone is not all include other ling. data. Constrain and calibrate model(s) (dates, geography, ratios, monophyletic groups). 
 
@@ -67,6 +71,8 @@ Almeida, F. O. D., & Neves, E. G. (2015). Evidências arqueológicas para a orig
 Balée, W. L. (1994). Footprints of the forest: Ka'apor ethnobotany-the historical ecology of plant utilization by an Amazonian people. Columbia University Press.
 
 Bouckaert R., Heled J., Kühnert D., Vaughan T., Wu C. H.,Xie D., et al. (2014). BEAST2: A Software Platform for Bayesian Evolutionary Analysis. PLoS Comput Biol. 10(4).
+
+Ferraz Gerardi, F & Reichert, S. (2020). The Tupi-Guaraní language family: a phylogenetic classification. To appear in Diachronica.
 
 Greenhill, S. J., Heggarty, P., & Gray, R. D. (2020). Bayesian Phylolinguistic. In R. D. Janda, B. D. Joseph, & B. S. Vance (Eds.), The Handbook of Historical Linguistics (pp. 226-253). Hoboken, New Jersey: Wiley-Blackwell. 
 
@@ -87,4 +93,6 @@ Rodrigues, A., & Cabral, A. S. (2012). Tupían. In L. Campbell & V. Grondona. Th
 Rodrigues, A. D., & Dietrich, W. (1997). On the linguistic relationship between Mawé and Tupí-Guaraní. Diachronica, 14(2), 265-304.
 
 Silva, Beatriz Carretta C. D. (2011). Mawé/Awetí/Tupí-Guaraní: relações lingüísticas e implicações históricas. University of Brasília. Unpublished PhD thesis.
+
+Wilkinson, Mark D.; Dumontier, Michel; Aalbersberg, IJsbrand Jan; Appleton, Gabrielle; et al. (15 March 2016). "The FAIR Guiding Principles for scientific data management and stewardship". Scientific Data. 3: 160018. doi:10.1038/sdata.2016.18.
 
