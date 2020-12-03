@@ -39,9 +39,9 @@ By **interpreting results considering extra-linguistic data** we mean looking at
 
 Evolutionary methods: we experiment from simple (NJ) to highly complex ones for millions of trees (Bayesian MCMC, covarion model, relaxed clock). The challenge is to deliver the best single tree to summarize the results.
 
-NJ | NeighbourNet | Density Tree | (Gerhard's method) |
-:-------------------------:|:-------------------------:|:--------------------:|:-----------------|
-(pic)  | (pic) | <img src="DensiTree_TG.png" width="260" height="200"> | (pic)
+NJ | NeighbourNet | Density Tree | 
+:-------------------------:|:-------------------------:|:--------------------:|
+(pic)  | (pic) | <img src="DensiTree_TG.png" width="260" height="200"> |
 
 The Density Tree plots thousands of the best scoring trees on top of each other, highlighting conflicting signals that can be due to a number of reasons, from limited data to a high ratio of borrowings. It also allows us to visually assess how likely some splits and their dates are. In our preliminary density tree, above, where the "root canal" is highlighted in blue, we can see that the groups for Guarani and Tupinambá seem clearly distinct, with some lower but clear probably of the split for the latter group being older than the most likely hypothesis. Some languages also show some conflicting signal: in this analysis, for example, Old Guarani is closer to the Siriono group, but there is a strong signal (visible by the green shade) for a closer membership with the Mbya group. The positions of Zo'e and Kamajurá, as expected, also show a lower degree of confidence.
 
