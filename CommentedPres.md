@@ -19,9 +19,9 @@ Tupí-Guaraní (TG) is the largest linguistic family of South-America. Little is
 
 Using phylogenetic tools (BEAST2, beastling), we build linguistic trees from open-access reusable data in CLDF, lifted with EDICTOR from TuLeD (285 concepts, 40 TG langs, 16211 words). We first detected 2832 cognate sets with LexStat, then reviewed 40% manually (ongoing work).
 
-[TuLeD](https://tuled.org) |  [CLDF](https://cldf.clld.org) | [EDICTOR](https://digling.org/edictor/) | [Linguistic Tree](https://www.pnas.org/content/116/21/10317)      |
-:-------------------------:|:-------------------------:|:-------------------------:|:--------------------------:
-<img src="tuled.png" width="280" height="200"> | <img src="cldf.png" width="280" height="200"> | <img src="edictor.png" width="280" height="200"> | <img src="F2.large.jpg"  height="200">
+[TuLeD](https://tuled.org) |  [CLDF](https://cldf.clld.org) | [EDICTOR](https://digling.org/edictor/) |
+:-------------------------:|:-------------------------:|:-------------------------:|
+<img src="tuled.png" width="280" height="200"> | <img src="cldf.png" width="280" height="200"> | <img src="edictor.png" width="280" height="200"> | 
 
 
 ## 3 (Goal)
@@ -34,7 +34,7 @@ Linguistic trees display classifications comparable with results from other fiel
 
 
 
-By **interpreting results considering extra-linguistic data**, we mean looking at the trees and interpreting it also considering, e.g., archeological or ethnographical data. The case of Ka'apor is illustrative. Ka'apor seems to have had  a relatively long contact with either Tupinambá or Língua Geral (cf. Ribeiro 1996; Correa da Silva 2011), nonetheless, based on phonological criteria, Ka'apor is grouped with [Wayampi, Emerillon, Anambé of Ehrenreich, and Guajá](https://glottolog.org/resource/languoid/id/tupi1281), languages by Rodriges and Cabral (2011) that are today far apart from each other. In spite of the position of Ka'apor in the tree, we have linguistic data (Rodrigues and Cabral 2011), and the mithology of the Ka'apor themselves which give us a clue that they were located more to the west in the past (cf. Huxley 1963; Ribeiro 1996; Balée 1994).
+By **interpreting results considering extra-linguistic data** we mean looking at the trees and interpreting it also considering, e.g., archeological or ethnographical data. The case of Ka'apor is illustrative. Ka'apor seems to have had  a relatively long contact with either Tupinambá or Língua Geral (cf. Ribeiro 1996; Correa da Silva 2011), nonetheless, based on phonological criteria, Ka'apor is grouped with [Wayampi, Emerillon, Anambé of Ehrenreich, and Guajá](https://glottolog.org/resource/languoid/id/tupi1281), languages by Rodriges and Cabral (2011) that are today far apart from each other. In spite of the position of Ka'apor in the tree, we have linguistic data (Rodrigues and Cabral 2011), and the mithology of the Ka'apor themselves giving clues that they were once located more to the west (cf. Huxley 1963; Ribeiro 1996; Balée 1994). 
 
 ## 4 (Explaining a model)
 
