@@ -28,10 +28,9 @@ Using phylogenetic tools (BEAST2, beastling), we build linguistic trees from ope
 
 Linguistic trees display classifications comparable with results from other fields (Archaeology, Ethnography, History). We first test a model on lexical data only, then we interpret results considering extra-linguistic data, evaluating hypotheses, and accordingly improve data and model.
 
-[Archaeology](https://amazonexpand.wixsite.com/expand) | [Archaeology](https://raw.githubusercontent.com/jgregoriods/rxpand/master/img/tutish.png) | Ethnographic Information
-:-------------------------:|:-------------------------:|:---------------------:|
-<img src="https://static.wixstatic.com/media/7bbfe9_af29f695208b4b56a8468c205806fd75~mv2.png/v1/fill/w_538,h_658,al_c,usm_0.66_1.00_0.01/EmbeddedImage%20(1).png" height="200"> | <img src="tutish.png" height="200"> | <img src="bookCover.png" height="200">
-
+[Archaeology](https://amazonexpand.wixsite.com/expand) | [Archaeology](https://raw.githubusercontent.com/jgregoriods/rxpand/master/img/tutish.png) | Ethnographic Information |Amount of cognates
+:-------------------------:|:-------------------------:|:---------------------:|:---------------------:|
+<img src="https://static.wixstatic.com/media/7bbfe9_af29f695208b4b56a8468c205806fd75~mv2.png/v1/fill/w_538,h_658,al_c,usm_0.66_1.00_0.01/EmbeddedImage%20(1).png" height="200"> | <img src="tutish.png" height="200"> | <img src="bookCover.png" height="200"> |<img src="HeatMap_Cogs.jpeg" height="200">
 
 
 By **interpreting results considering extra-linguistic data** we mean looking at the trees and interpreting it also considering, e.g., archeological or ethnographical data. The case of Ka'apor is illustrative. Ka'apor seems to have had  a relatively long contact with either Tupinambá or Língua Geral (cf. Ribeiro 1996; Correa da Silva 2011), nonetheless, based on phonological criteria, Ka'apor is grouped with [Wayampi, Emerillon, Anambé of Ehrenreich, and Guajá](https://glottolog.org/resource/languoid/id/tupi1281), languages by Rodriges and Cabral (2011) that are today far apart from each other. In spite of the position of Ka'apor in the tree, we have linguistic data (Rodrigues and Cabral 2011), and the mithology of the Ka'apor themselves giving clues that they were once located more to the west (cf. Huxley 1963; Ribeiro 1996; Balée 1994). 
