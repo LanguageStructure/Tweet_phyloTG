@@ -44,8 +44,8 @@ NJ | NeighbourNet | Density Tree |
 Mawe-Awetí-TG hypothesis recognized. Fast expansion of Guaraní (light blue) until 400 years ago. 4 major groups identified. Blue group supports ethnogr/hist/ling evidence: dialect continuum, common area of origin, close contact. Fits archaeological dates (Almeida & Neves 2015). 
 
 [Mawetí-Guaraní Hypothesis](https://glottolog.org/resource/languoid/id/mawe1252) | Phylogenetic Tree | 
-:-------------------------:|:-------------------------:|:--------------------:
-<img src="mwt.png" width="260" height="200">  | <img src="TG_Tree.png" width="260" height="200"> |
+:-------------------------:|:-------------------------:|:--------------------:|
+<img src="mwt.png" width="260" height="200">  | <img src="TG_Tree.png" width="260" height="200"> 
 
 
 ## 6 (To do and REFS)
