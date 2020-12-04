@@ -40,6 +40,7 @@ Linguistic trees display classifications comparable with results from other fiel
 <div align="justify">
 Evolutionary methods: we start from simple (NJ) to highly complex ones for millions of trees (Bayesian MCMC, covarion model, relaxed clock, independent rates of variation). Basic calibrations from literature. Challenge: deliver the best single tree that summarizes the results.
 </div>
+
 NJ | NeighbourNet | Density Tree | (Gerhard's method) |
 :-------------------------:|:-------------------------:|:--------------------:|:-----------------|
 (pic)  | (pic) | <img src="DensiTree_TG.png" width="260" height="200"> | (pic)
