@@ -35,17 +35,17 @@ Linguistic trees display classifications comparable with results from other fiel
 ## 4 (Explaining a model)
 Evolutionary methods: we start from simple (NJ) to highly complex ones for millions of trees (Bayesian MCMC, covarion model, relaxed clock, independent rates of variation). Basic calibrations from literature. Challenge: deliver the best single tree that summarizes the results.
 
-NJ | NeighbourNet | Density Tree | (Gerhard's method) |
-:-------------------------:|:-------------------------:|:--------------------:|:-----------------|
-<img src="TG_Tweet_NJ.nex.png" width="260" height="200"> >  | (pic) | <img src="DensiTree_TG.png" width="260" height="200"> | (pic)
+NJ | NeighbourNet | Density Tree | 
+:-------------------------:|:-------------------------:|:--------------------:|
+<img src="TG_Tweet_NJ.nex.png" width="260" height="200"> >  | (pic) | <img src="DensiTree_TG.png" width="260" height="200"> |
 
 
 ## 5 (Preliminary RESULTS)
 Mawe-Awetí-TG hypothesis recognized. Fast expansion of Guaraní (light blue) until 400 years ago. 4 major groups identified. Blue group supports ethnogr/hist/ling evidence: dialect continuum, common area of origin, close contact. Fits archaeological dates (Almeida & Neves 2015). 
 
-[Mawetí-Guaraní Hypothesis](https://glottolog.org/resource/languoid/id/mawe1252) | Phylogenetic Tree | (label) |
+[Mawetí-Guaraní Hypothesis](https://glottolog.org/resource/languoid/id/mawe1252) | Phylogenetic Tree | 
 :-------------------------:|:-------------------------:|:--------------------:
-<img src="mwt.png" width="260" height="200">  | <img src="TG_Tree.png" width="260" height="200"> | (pic)
+<img src="mwt.png" width="260" height="200">  | <img src="TG_Tree.png" width="260" height="200"> |
 
 
 ## 6 (To do and REFS)
