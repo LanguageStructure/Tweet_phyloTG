@@ -6,7 +6,7 @@ This page contains the [Twitter presentation]() and additional comments to it wi
 
 <div align="justify">
 
-#linguistweets. Tupí-Guaraní (TG) is the largest linguistic family of South America. We want to know more about its spread (peoples and languages). Historical linguistics has tools to investigate this issue aided by digital data, computers, and methods from evolutionary biology.
+#lt0000. Tupí-Guaraní (TG) is the largest linguistic family of South America. We want to know more about its spread (peoples and languages). Historical linguistics has tools to investigate this issue aided by digital data, computers, and methods from evolutionary biology.
 
 </div>
 
