@@ -1,4 +1,4 @@
-# tuled-phylo - tupi-guarani
+# TuLeD-phylo - tupi-guarani
 
 Code and data for classification of Tupi-Guarani languages
 
