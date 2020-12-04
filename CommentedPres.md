@@ -40,13 +40,16 @@ By **interpreting results considering extra-linguistic data** we mean looking at
 
 Evolutionary methods: we start from simple (NJ) to highly complex ones for millions of trees (Bayesian MCMC, covarion model, relaxed clock, independent rates of variation). Basic calibrations from literature. Challenge: deliver the best single tree that summarizes the results.
 
-NJ | NeighbourNet | Density Tree | 
+Neighbor Joining | NeighbourNet | Density Tree | 
 :-------------------------:|:-------------------------:|:--------------------:|
 <img src="TG_Tweet_NJ.nex.png" width="260" height="200">  | <img src="NN_TG_Tw.png" width="260" height="200">  | <img src="DensiTree_TG.png" width="260" height="200"> |
 
+Neighbor Joining (NJ) is the clustering algorithm most frequently used in phylogenetics, which does not require a molecular clock. Neighbor joining is more of a quick method of approximating the minimum evolution tree.
+
+NeighbourNet: Delta score = 0.3972 Q-residual score = 0.006793.
+
 The Density Tree plots thousands of the best scoring trees on top of each other (in green), highlighting conflicting signals that can be due to a number of reasons, from limited data to a high ratio of borrowings. The summary of the best trees, trees with higher probabilities, is plotted in blue. It also allows us to visually assess how likely some splits and their dates are. In our preliminary density tree, above, where the "root canal" is highlighted in blue, we can see that the groups for Guarani and Tupinambá (Ferraz Gerardi and Reichert 2020) seem clearly distinct, with some probability that it happened earlier than the date of root canal. Some languages also show some conflicting signal: in this analysis, for example, Old Guarani is closer to the Siriono group, but there is a strong signal (visible by the green shade) for a closer membership with the Mbya group. The positions of Zo'e and Kamajurá, as expected, also show a lower degree of confidence. 
 
-NeighbourNet: Delta score = 0.3972 Q-residual score = 0.006793
 
 ## 5 (Preliminary RESULTS)
 
