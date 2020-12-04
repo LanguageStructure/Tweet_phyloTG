@@ -44,11 +44,9 @@ Neighbor Joining | NeighbourNet | Density Tree |
 :-------------------------:|:-------------------------:|:--------------------:|
 <img src="TG_Tweet_NJ.nex.png" width="260" height="200">  | <img src="NN_TG_Tw.png" width="260" height="200">  | <img src="DensiTree_TG.png" width="260" height="200"> |
 
-Neighbor Joining (NJ) is the clustering algorithm most frequently used in phylogenetics, which does not require a molecular clock. Neighbor joining is more of a quick method of approximating the minimum evolution tree.
+Neighbor Joining (NJ) is the clustering algorithm most frequently used in phylogenetics, which does not require an evolutionary clock. Neighbor joining is more of a quick method of approximating the minimum evolution tree, usually with a confidence inversely proportional to the distance from the root (i.e., it tends to identify recent splits better than older ones). It is a common first approach for data exploration and is expected to be not too different from a Bayesian one. 
 
-NeighbourNet: visualize conflicting signal (different possible evolutionary trajectories) in the data.
-
-NeighbourNet: Delta score = 0.3972 Q-residual score = 0.006793.
+A NeighbourNet (NN) is a kind of split graph that is commonly used to visualize conflicting signals, such as those resulting from lexical borrowings. It is a quick method for identifying reticulate relationships and, while it does not group languages in terms of genealogy, can be used to visually estimate splits and rates of variation and non-overlapping evolutionary trajectories. The one here reported has a delta score of 0.3972 and a q-residual score of 0.006793.
 
 The Density Tree plots thousands of the best scoring trees on top of each other (in green), highlighting conflicting signals that can be due to a number of reasons, from limited data to a high ratio of borrowings. The summary of the best trees, trees with higher probabilities, is plotted in blue. It also allows us to visually assess how likely some splits and their dates are. In our preliminary density tree, above, where the "root canal" is highlighted in blue, we can see that the groups for Guarani and Tupinambá (Ferraz Gerardi and Reichert 2020) seem clearly distinct, with some probability that it happened earlier than the date of root canal. Some languages also show some conflicting signal: in this analysis, for example, Old Guarani is closer to the Siriono group, but there is a strong signal (visible by the green shade) for a closer membership with the Mbya group. The positions of Zo'e and Kamajurá, as expected, also show a lower degree of confidence. 
 
