@@ -1,6 +1,6 @@
 # [Linguistweets](https://www.linguistweets.org) Conference ([ABRALIN](https://www.abralin.org))
 
-This page contains the [Twitter presentation]() and additional comments to it with references. The content was presented (tweeted) by Fabrício Ferraz Gerardi, Tiago Tresoldi and Stanislav Reichert on the 05 of December 2020.
+This page contains the [Twitter presentation]() and additional comments to it with references. The content was presented (tweeted) by Fabrício Ferraz Gerardi, Tiago Tresoldi and Stanislav Reichert on the 05 of December 2020. This is ongoing work in the initial phase.
 
 ## 1 (Introduction)
 
