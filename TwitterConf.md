@@ -37,7 +37,7 @@ Evolutionary methods: we start from simple (NJ) to highly complex ones for milli
 
 NJ | NeighbourNet | Density Tree | (Gerhard's method) |
 :-------------------------:|:-------------------------:|:--------------------:|:-----------------|
-(pic)  | (pic) | <img src="DensiTree_TG.png" width="260" height="200"> | (pic)
+<img src="TG_Tweet_NJ.nex.png" width="260" height="200"> >  | (pic) | <img src="DensiTree_TG.png" width="260" height="200"> | (pic)
 
 
 ## 5 (Preliminary RESULTS)
